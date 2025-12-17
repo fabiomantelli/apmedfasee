@@ -1,0 +1,6 @@
+/consultas/*
+/commits/*
+/comtrade/*
+!/comtrade/.gitkeep
+*.asv
+/documents/*
